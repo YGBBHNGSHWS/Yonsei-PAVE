@@ -1,3 +1,45 @@
+@font-face {
+    font-family: 'Arita-Bold';
+    src: url('./fonts/Arita-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Arita-SemiBold';
+    src: url('./fonts/Arita-SemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Arita-Medium';
+    src: url('./fonts/Arita-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Arita-Buri-Hairline';
+    src: url('./fonts/Arita-Buri-Hairline.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Arita-Buri-Light';
+    src: url('./fonts/Arita-Buri-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bombaram';
+    src: url('./fonts/Bombaram.woff') format('woff');
+}
+
 * {
     box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: Bombaram;
+}
+
+#selection {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
 }
