@@ -37,10 +37,27 @@ body {
     font-family: Bombaram;
 }
 
+#yonsei {
+    width: 100px;
+}
+
+#logo {
+    width: 100px;
+}
+
+.header {
+    width: 100%;
+    margin: 10px auto;
+}
+
 #selection {
     text-decoration: none;
     background-color: blue;
     color: white;
     padding: 10px 20px;
     font-family: Arita-Medium;
+}
+
+.selection {
+    margin: 50px;
 }
