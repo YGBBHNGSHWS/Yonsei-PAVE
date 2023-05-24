@@ -61,3 +61,29 @@ body {
 .selection {
     margin: 50px;
 }
+
+nav {
+    margin: 10px 0;
+    font-family: Arita-SemiBold;
+}
+
+li {
+    display: inline-block;
+    margin: 0 20px 0 auto;
+}
+
+ul {
+    display: inline-block;
+}
+
+#nav1 {
+    margin: 0 14% 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navlink {
+    color: black;
+}
